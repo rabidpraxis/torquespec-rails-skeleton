@@ -1,0 +1,7 @@
+---
+application:
+  root: /Users/lil/Dropbox/rpLib/Projects/torquespec-rails-skeleton/spec/..
+  env: development
+ruby:
+  version: '1.9'
+...
